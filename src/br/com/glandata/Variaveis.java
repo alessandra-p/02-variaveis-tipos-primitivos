@@ -4,7 +4,7 @@ public class Variaveis {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Variáveis em Java");
+		System.out.println("Alterando as Variáveis em Java");
 		
 		// VARIÁVEIS PRIMITIVAS
 		int numero1 = 5;
